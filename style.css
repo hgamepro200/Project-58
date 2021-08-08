@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+#cricket{
+  border-style:solid;
+  border-radius:80px;
+  width:450px;
+}
+#Topic{
+  background:linear-gradient(orange 0%, red 100%);
+}
